@@ -1,1 +1,1 @@
-# Heart-attcak-prediction-using-ML
+# Heart-attack-prediction-using-ML
